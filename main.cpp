@@ -48,7 +48,7 @@ void BiayaSKS::output(){
   cout << "\t Nama Mahasiswa\t: " << nama << endl;
   cout << "\t NIM Mahasiswa\t: " << nim <<endl;
   cout << "\n\tMATA KULIAH YANG DIAMBIL \t" << endl;
-  cout <<"||                                              ||"<<endl;
+  cout <<"||                                             ||"<<endl;
   keluar(jumlah);
   cout << "================================================" << endl;
   cout << " Total sks\t= " << total << " sks" << endl;
